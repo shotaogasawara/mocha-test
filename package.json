@@ -1,0 +1,13 @@
+{
+  "name": "mocha-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "shotaogasawara <35189691+shotaogasawara@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "^7.0.0"
+  }
+}
